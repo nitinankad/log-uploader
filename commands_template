@@ -1,0 +1,2 @@
+[default]
+commands = echo Wawawewa very nice I like!, npm test
