@@ -1,1 +1,1 @@
-# logs-uploader
+# log-uploader
