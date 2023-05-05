@@ -2,4 +2,4 @@
 
 A CLI wrapper tool that uploads your terminal command outputs so you can easily share them.
 
-![Demo](https://user-images.githubusercontent.com/46038298/236319852-398c63d2-4cdc-49bb-ac60-72b1a885a02c.gif)
+![Demo](https://user-images.githubusercontent.com/46038298/236377911-6a30b11f-a0bf-433a-987c-75d5def8a80c.gif)
